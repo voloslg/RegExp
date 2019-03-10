@@ -6,6 +6,8 @@
 
 // console.log(re);
 // console.log(re.source);
+// console.log(result.index); 
+// console.log(result.input);
 
 
 //Functions for RegExp
